@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **UX/UI Design and JavaScript while studying Software Engineering at a university in Brazil. In addition, I'm taking extra courses on my own to deepen my knowledge in front-end development, design, cognitive biases, and databases.**
 
-- 👨‍💻 All of my projects are available at **[Portfolio](lucaseduardorudnik.vercel.app)**
+- 👨‍💻 All of my projects are available at **[lucaseduardorudnik.vercel.app](lucaseduardorudnik.vercel.app)**
 
 - 📫 How to reach me **lucas.eduardorud336@gmail.com**
 
