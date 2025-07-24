@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Eduardo Rudnik</h1>
 <h3 align="center">A passionate front-end developer and UI/UX designer from Brazil.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lucaseduardorudnik&label=Profile%20views&color=0e75b6&style=flat" alt="lucaseduardorudnik" />
-</p>
-
 - 🌱 I’m currently learning **UX/UI Design and JavaScript** while studying **Software Engineering** at a university in Brazil.  
   I'm also taking additional courses to deepen my knowledge in **front-end development, design, cognitive biases, and databases.**
 
